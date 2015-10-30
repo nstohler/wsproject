@@ -7,5 +7,6 @@
         return -1;
     }
 
-    // some comment for test-branch here
+    // some comment for test-branch
+
 })();
