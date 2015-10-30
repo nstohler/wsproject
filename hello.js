@@ -6,4 +6,6 @@
     function noFun() {
         return -1;
     }
+
+    // some comment for test-branch here
 })();
