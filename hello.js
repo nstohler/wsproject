@@ -1,7 +1,7 @@
 (function() {
     'use strict';
 
-    function fun() { return 42; }
+    function fun() { return 42 * 2; }
 
     function noFun() {
         return -1;
